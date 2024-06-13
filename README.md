@@ -35,3 +35,7 @@
 |相册选择|TZImagePickerController|https://github.com/banchichen/TZImagePickerController.git|支持照片、视频、裁剪选中图片|
 |卡片滑动|YCCardView|https://github.com/Rycccccccc/YCCardView.git||
 |卡片滑动|CollectionViewPagingLayout|https://github.com/amirdew/CollectionViewPagingLayout.git||
+|拓展分类|SwifterSwift|https://github.com/SwifterSwift/SwifterSwift.git||
+|MVVM|RxSwift|https://github.com/ReactiveX/RxSwift.git||
+|MVVM|RxCocoa|||
+|MVVM|NSObject+Rx|||
