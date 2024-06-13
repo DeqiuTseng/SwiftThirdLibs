@@ -13,6 +13,7 @@
 |键盘|IQKeyboardManagerSwift| https://github.com/hackiftekhar/IQKeyboardManager | |
 |存储|KeychainSwift|https://github.com/evgenyneu/keychain-swift| |
 |存储|Defaults|https://github.com/sindresorhus/Defaults| |
+|存储|KTVHTTPCache|||
 |数据库|WCDB.swift| https://github.com/Tencent/wcdb.swift ||
 |数据库|realm-swift|https://github.com/realm/realm-swift.git|IM类型App不推荐,插入大量数据会报存储空间不足(硬盘空间暴涨)问题|
 |支付内购|InAppPurchase|||
@@ -20,6 +21,7 @@
 |轮播|SDCycleScrollView|https://github.com/coderZS/SDCycleScrollView||
 |轮播视图|JXSegmentedView|https://github.com/pujiaxin33/JXSegmentedView||
 |轮播视图|JXPagingView/Paging|https://github.com/pujiaxin33/JXSegmentedView||
+|轮播文本|MarqueeLabel|https://github.com/cbpowell/MarqueeLabel.git||
 |权限|PermissionsKit|https://github.com/ethanhuang13/PermissionsKit||
 |播放mp4|BDAlphaPlayer|||
 |内存泄漏检测|MLeaksFinder|https://github.com/Zepo/MLeaksFinder|无代码嵌入pod配置:configurations => ['DEBUG'],Swift工程集成需配置https://help.aliyun.com/document_detail/448230.html|
@@ -39,3 +41,8 @@
 |MVVM|RxSwift|https://github.com/ReactiveX/RxSwift.git||
 |MVVM|RxCocoa|||
 |MVVM|NSObject+Rx|||
+|MVVM|RxRelay|||
+|长连接|SocketRocket|https://github.com/RxSwiftCommunity/NSObject-Rx.git||
+|调试模式debug|FLEX|https://github.com/FLEXTool/FLEX.git||
+|调试模式debug|CocoaDebug|https://github.com/CocoaDebug/CocoaDebug.git||
+
