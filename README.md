@@ -30,4 +30,5 @@
 |路由|TheRouterSwift|||
 |闪退crash|Bugly|||
 |奇气泡|AMPopTip|https://github.com/andreamazz/AMPopTip||
-|空列表|HGPlaceholders|https://github.com/HamzaGhazouani/HGPlaceholders||
+|空列表占位|HGPlaceholders|https://github.com/HamzaGhazouani/HGPlaceholders||
+|UI验证码框|CRBoxInputView|https://github.com/CRAnimation/CRBoxInputView.git||
