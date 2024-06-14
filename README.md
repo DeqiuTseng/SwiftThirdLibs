@@ -43,7 +43,7 @@
 |MVVM|NSObject+Rx|||
 |MVVM|RxRelay|||
 |长连接|SocketRocket|https://github.com/RxSwiftCommunity/NSObject-Rx.git||
-|调试模式debug|FLEX|https://github.com/FLEXTool/FLEX.git||
-|调试模式debug|CocoaDebug|https://github.com/CocoaDebug/CocoaDebug.git||
+|debug|FLEX|https://github.com/FLEXTool/FLEX.git||
+|debug|CocoaDebug|https://github.com/CocoaDebug/CocoaDebug.git||
 |语法糖|Then|https://github.com/freshOS/Then.git||
 
