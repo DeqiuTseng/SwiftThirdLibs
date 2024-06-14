@@ -29,7 +29,7 @@
 |动画|APNGKit|https://github.com/onevcat/APNGKit.git||
 |加密|CryptoSwift|https://github.com/krzyzanowskim/CryptoSwift||
 |Zip|SSZipArchive|https://github.com/ZipArchive/ZipArchive||
-|路由|TheRouterSwift|||
+|路由|TheRouterSwift|https://github.com/HuolalaTech/hll-wp-therouter-ios.git||
 |闪退crash|Bugly|||
 |奇气泡|AMPopTip|https://github.com/andreamazz/AMPopTip||
 |空列表占位|HGPlaceholders|https://github.com/HamzaGhazouani/HGPlaceholders||
@@ -45,4 +45,5 @@
 |长连接|SocketRocket|https://github.com/RxSwiftCommunity/NSObject-Rx.git||
 |调试模式debug|FLEX|https://github.com/FLEXTool/FLEX.git||
 |调试模式debug|CocoaDebug|https://github.com/CocoaDebug/CocoaDebug.git||
+|语法糖|Then|https://github.com/freshOS/Then.git||
 
