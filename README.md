@@ -46,7 +46,7 @@
 |debug|FLEX|https://github.com/FLEXTool/FLEX.git||
 |debug|CocoaDebug|https://github.com/CocoaDebug/CocoaDebug.git||
 |语法糖|Then|https://github.com/freshOS/Then.git||
-|语法糖|CYLTabBarController|[https://github.com/freshOS/Then.git](https://github.com/12207480/TYPagerController)||
+|语法糖|CYLTabBarController|[https://github.com/12207480/TYPagerController||
 
 
 
