@@ -46,6 +46,8 @@
 |debug|FLEX|https://github.com/FLEXTool/FLEX.git||
 |debug|CocoaDebug|https://github.com/CocoaDebug/CocoaDebug.git||
 |语法糖|Then|https://github.com/freshOS/Then.git||
+|语法糖|CYLTabBarController|[https://github.com/freshOS/Then.git](https://github.com/12207480/TYPagerController)||
+
 
 
 如果你也有好用的第三方库也可以提个issuse哦
